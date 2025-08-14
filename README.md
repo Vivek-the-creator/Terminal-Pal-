@@ -1,4 +1,4 @@
-# 🧠 AI Terminal Pal v2.0 – Supreme Developer Edition
+# 🧠 AI Terminal Pal – Supreme Developer Edition
 
 > "Your all-in-one terminal-based AI dev sidekick — engineered for speed, clarity, and control."  
 > ✨ Powered by: *GPT‑4o, **Claude 3 Opus, **Gemini 1.5 Pro, **Groq, **Mistral*, and more.  
